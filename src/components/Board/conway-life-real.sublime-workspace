@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"board",
+				"boardMap"
+			],
+			[
+				"t",
+				"tileIndex"
+			],
+			[
+				"row",
+				"rowWidth"
+			],
+			[
+				"Board",
+				"BoardContainer"
+			],
+			[
+				"render",
+				"renderRows"
+			],
+			[
+				"tile",
+				"tileIndex"
+			],
+			[
+				"ex",
+				"ExampleAppContainer"
+			],
+			[
+				"has",
+				"hasVotedFor"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"map",
+				"mapDispatchToProps"
+			],
+			[
+				"defa",
+				"defaultAction"
+			],
+			[
+				"default",
+				"defaultAction"
+			],
+			[
+				"defau",
+				"DefaultApp"
+			],
+			[
+				"A",
+				"App-dick"
+			],
+			[
+				"s",
+				"standardHeight"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"pos",
+				"postId"
+			],
+			[
+				"po",
+				"postId"
+			],
+			[
+				"post",
+				"postComments"
+			],
+			[
+				"action",
+				"actionCreators"
+			],
+			[
+				"cre",
+				"createStoreWithMiddleware"
+			],
+			[
+				"se",
+				"setState"
+			],
+			[
+				"from",
+				"fromJS"
+			],
+			[
+				"set",
+				"SET_STATE"
+			],
+			[
+				"resul",
+				"Results"
+			],
+			[
+				"nex",
+				"nextInvoked"
+			],
+			[
+				"get",
+				"getVotes"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"re",
+				"renderIntoDocument"
+			],
+			[
+				"chai",
+				"chaiImmutable"
+			],
+			[
+				"ta",
+				"Trainspotting"
+			],
+			[
+				"vote",
+				"VOTE"
+			],
+			[
+				"ne",
+				"NEXT"
+			],
+			[
+				"b",
+				"bVotes"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"immutb",
+				"immutable"
+			],
+			[
+				"nextS",
+				"nextState"
+			],
+			[
+				"ch",
+				"chai-immutable"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1841,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Unit/index.css",
+			"settings":
+			{
+				"buffer_size": 614,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.css",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"them",
+				"Material Theme: Activate theme"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set ",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"Ma",
+				"Material Theme: Activate theme"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"package control",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Board",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/ExampleApp",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/PlayButton",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Unit",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/redux",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/redux/actions",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/redux/reducers",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/test"
+	],
+	"file_history":
+	[
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/redux/actions/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/router.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/redux/store.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Unit/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/redux/reducers/defaultReducer.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/PlayButton/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Home/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Unit/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Board/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/test/store_spec.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/PlayButton/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Home/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Unit/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/package.json",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Home/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/router.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/components/ExampleApp/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/router.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/redux/store.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/test/components/ExampleApp_spec.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/redux/reducers/defaultReducer.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/test/test_helper.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/components/ExampleApp/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/template/package.json",
+		"/Users/tysisnice/Documents/projects/react-apps/template/node_modules/babel-preset-react-app/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/test/components/Voting_spec.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/App/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/App/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/Voting/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/Voting/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/README.md",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/Vote/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/Vote/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/components/Winner/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/router.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/test/test_helper.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/config/env.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/src/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/node_modules/babel-preset-react-app/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/package.json",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-client/public/index.html",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-server/test/reducer_spec.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-server/test/store_spec.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-server/test/immutable_spec.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-server/test/test_helper.js",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-server/package.json",
+		"/Users/tysisnice/Documents/projects/react-apps/redux-voting-app/voting-server/npm-debug.log",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/redux/reducers/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/router.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/PlayButton/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Home/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Unit/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Unit/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Board/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/PlayButton/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Home/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Board/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/package.json",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/DefaultApp/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/index.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/conway-life/src/components/Home/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/experiment/app/app.js",
+		"/Users/tysisnice/Documents/projects/react-apps/boilerplates/react-boilerplate/app/routes.js",
+		"/Users/tysisnice/Documents/projects/react-apps/experiment/app/containers/Board/actions.js",
+		"/Users/tysisnice/Documents/projects/react-apps/experiment/app/routes.js",
+		"/Users/tysisnice/Documents/projects/react-apps/boilerplates/react-template/package.json",
+		"/Users/tysisnice/Documents/projects/react-apps/experiment/app/components/Unit/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/boilerplates/react-boilerplate/node_modules/react-boilerplate-dlls/reactBoilerplateDeps.dll.js",
+		"/Users/tysisnice/Documents/projects/react-apps/boilerplates/react-boilerplate/npm-debug.log",
+		"/Users/tysisnice/Documents/projects/react-apps/test/src/App.css",
+		"/Users/tysisnice/Documents/projects/template/src/components/DefaultApp.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/components/css/DefaultApp.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/components/DefaultApp.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/redux/actions/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/reducers/search-layout-reducer.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/actions/search-layout-actions.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/components/containers/user-profile-container.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/components/containers/user-list-container.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/components/layouts/main-layout.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/app.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/components/layouts/search-layout.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/redux/reducers/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/index.css",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/DefaultApp.test.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/DefaultApp.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/DefaultApp.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/store.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/reducers/index.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/config/webpack.config.dev.js",
+		"/Users/tysisnice/Documents/projects/react-apps/template/src/App.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-3-redux/app/components/containers/search-form-container.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-2-container-components/app/components/containers/user-profile-container.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-2-container-components/app/components/containers/widget-list-container.js",
+		"/Users/tysisnice/Documents/projects/react-apps/CSS-Tricks-React-Series/guide-1-react-router/README.md",
+		"/Users/tysisnice/Documents/projects/react-apps/router-tutorial/src/App.sass",
+		"/Users/tysisnice/Documents/projects/react-apps/router-tutorial/src/App.js",
+		"/Users/tysisnice/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tysisnice/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/tysisnice/Documents/projects/react-apps/gameOfLife copy/src/App.sass",
+		"/Users/tysisnice/Documents/projects/tysisnice/README.md",
+		"/Users/tysisnice/Documents/projects/haukepainters/css/style.css",
+		"/Users/tysisnice/Downloads/ubusina/js/smoothscroll.js",
+		"/Users/tysisnice/Downloads/ubusina/js/gmaps.js",
+		"/Users/tysisnice/Downloads/ubusina/js/custom.js",
+		"/Users/tysisnice/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/tysisnice/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tysisnice/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/store.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/reduxstagram.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/components/Photo.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/components/Single.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/components/PhotoGrid.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/components/Main.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/components/Comments.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/components/App.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/actions/actionCreators.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/18/actions/actionCreators.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/reducers/comments.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/components/Comments.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/components/Single.js",
+		"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/client/reducers/posts.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+			"/Users/tysisnice/Documents/projects/react-apps/boilerplates/react-boilerplate",
+			"/Users/tysisnice/Documents/projects/react-apps/template",
+			"/Users/tysisnice/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"unit",
+			"ExampleApp",
+			"ExampleAppContainer",
+			"ExampleApp",
+			"Board",
+			"DefaultApp",
+			"from",
+			"Voting",
+			"DefaultApp",
+			"hashHistory",
+			"browser",
+			"ExampleApp",
+			"Voting",
+			"winner",
+			"ExampleApp",
+			"module",
+			");\n",
+			"fafafa",
+			"color",
+			"eff",
+			"0.5",
+			"{this.props.children}",
+			"DefaultApp",
+			"PlayButton",
+			"applyRouterMiddleware",
+			"ReactTestUtils",
+			"!!./../node_modules/css-loader/index.js",
+			"}",
+			"export function defaultAction(x, y) {\n\t\n\tn = y * 30;\n\n\treturn {\n\t\ttype: 'DEFAULT',\n\t\taction: x,\n\t\tparam: n\n\t}\n}",
+			"}\n",
+			"butt",
+			"seconds",
+			";\n",
+			"222",
+			";\n",
+			"p",
+			"Reduxstagram",
+			"reduxtagram",
+			"Name",
+			"username",
+			"5s",
+			"author",
+			");\n",
+			"meta",
+			"function",
+			"module",
+			"vote",
+			"Trainspotting",
+			"Trainspotting\n",
+			"const\nTrainspotting",
+			"Trainspotting",
+			"import {expect} from 'chai'\n\ndescribe('immutability', () => {\n\n\tdescribe('a tree', () => {\n\n\t\tfunction addMovie(curentState, movie) {\n\t\t\treturn currentState.set('movies', currentState.get('movies').push(movie));\n\t\t}\n\n\t});\n\n});",
+			"function addMovie(curentState, movie)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tysisnice/Documents/projects/react-apps/conway-life-real/src/components/Unit/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "conway-life-real.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/redux-voting-app/voting-server/src:core.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/projects/Learn-Redux-Starter-Files-master/learn-redux/learn-redux.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,62 @@
+.board {
+	text-align: center;
+	justify-content: center;
+}
+
+.row {
+	text-align: center;
+	margin: 0;
+	display: flex;
+	padding: 0;
+}
+.rows {
+	justify-content: center;
+	display: flex;
+	margin: 10px;
+}
+
+.button {
+	outline: 0;
+	width: 120px;
+	height: 34px;
+	font-size: 16px;
+	line-height: 34px;
+	padding: 0;
+	margin: -1px;
+	border: 2px solid #ddd;
+	background-color: white;
+	text-decoration: none;
+} .button:hover {
+		background: #1bffdb;
+    border: 2px solid #1bffdb;
+    cursor: pointer;
+    z-index: 10;
+    -webkit-box-shadow: 0px 0px 4px -1px #268767;
+    -moz-box-shadow: 0px 0px 4px -1px #268767;
+    box-shadow: 0px 0px 4px -1px #268767;
+	} .button:hover:active {
+      position: relative;
+      top: 1px;
+      background: #10ebc3;
+		}
+	.button:focus { outline: 0; }
+
+.gen {
+	width: 140px;
+	height: 30px;
+	font-size: 16px;
+	line-height: 34px;
+	padding: 0;
+	padding-left: 15px;
+	padding-right: -10px;
+	margin: -1px;
+	border: 2px solid #ddd;
+	background-color: white;
+	text-decoration: none;
+	display: inline-flex;
+	text-align: center;
+
+}.gen:focus { outline: 0; }
+
+
+
