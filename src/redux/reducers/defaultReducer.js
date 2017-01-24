@@ -4,9 +4,10 @@ import {Map, List, fromJS} from 'immutable';
 
 const initialState = Map({
 		width: 50,
-		height: 35,
+		height: 34,
 		gameRunning: true,
-		generations: 0
+		generations: 0,
+		firstPlay: true
 	});
 
 
@@ -16,9 +17,19 @@ const reducer = function(state = initialState, action) {
 
 	switch(action.type) {
 
+		case 'FIRST':
+			const f = state.get('firstPlay');
+			if (f) {
+				return state
+				.set('boardMap', setBoard(width, height))
+				.set('generations', 0)
+				.set('firstPlay', false)
+				.set('boardMap', randomize(state.get('boardMap')));
+			}return state;
+
 		case 'SETUP':
-		const width = state.get('width');
-		const height = state.get('height');
+			const width = state.get('width');
+			const height = state.get('height');
 			return state.set('boardMap', setBoard(width, height)).set('generations', 0);
 
 		case 'UNIT_CLICK':
