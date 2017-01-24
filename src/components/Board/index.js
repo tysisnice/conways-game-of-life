@@ -25,6 +25,7 @@ export const Board = React.createClass({
               column={tileIndex}
               key={'key '+tile.get('id')}
               alive={tile.get('alive')}
+              old={tile.get('old')}
               unitClick={this.props.unitClick}
               />
       );

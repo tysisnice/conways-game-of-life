@@ -26,17 +26,20 @@
 		}
 
 .alive {
-	background: #09f7c9;
-	border: 4px solid #1bffdb;
+	background: #19ffff;
+	border: 4px solid #2bffff;
 } .alive:hover {
-		background: #8bffff;
-		border: 4px solid #8cfffb;
+		background: #abffff;
+		border: 4px solid #acfffb;
 	}
 
 .old {
-	background: #08ebc8;
+	background: #09f7c9;
 	border: 4px solid #1bffdb;
-}
+} .old:hover {
+		background: #abffff;
+		border: 4px solid #acfffb;
+	}
 
 .dead {
 	background: #ddd;

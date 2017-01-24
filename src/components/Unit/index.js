@@ -16,6 +16,7 @@ export const Unit = React.createClass({
 	mixins: [PureRenderMixin],
 
   getClassName: function() {
+    if (this.props.old) return 'old';
     return this.props.alive ? 'alive' : 'dead';
   },
 

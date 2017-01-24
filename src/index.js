@@ -10,7 +10,7 @@ import { Map, List } 			from 'immutable';
 
 
 store.dispatch({type: 'SETUP'});
-//store.dispatch({type: 'RANDOMIZE'});
+store.dispatch({type: 'RANDOMIZE'});
 
 
 ReactDOM.render(
@@ -23,4 +23,4 @@ ReactDOM.render(
 
 var startTimer = setInterval(() => {
 		store.dispatch({type: 'RUN_GAME'});
-	}, 200);
+	}, 0.1);
