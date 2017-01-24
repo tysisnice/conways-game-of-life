@@ -3,7 +3,7 @@ import {Map, List, fromJS} from 'immutable';
 
 
 const initialState = Map({
-		width: 45,
+		width: 50,
 		height: 35,
 		gameRunning: true,
 		generations: 0
@@ -80,9 +80,9 @@ function playRound(b) {
 	var board = b.toJS();
 	var newBoard = [];
 	for ( var i = 0, length = board.length; i < length; i++ ) {
+		let row = [];
 		for ( var o = 0, width = board[i].length; o < width; o++ ) {
 			let num = 0;
-			let row = [];
 			let iMinusOne = i - 1;
 			let iPlus_One = i + 1;
 			let oMinusOne = o - 1;
@@ -104,19 +104,21 @@ function playRound(b) {
 
 			if (  board[i][o].alive )  {
 				if (num === 2 || num === 3) {
-					newBoard[i][o].old = true;
+					row.push({alive: true, old: true, id: 'id'+i+'.'+o})
 				} else {
-					newBoard[i][o].alive = false ;
-					newBoard[i][o].old = false;
+					row.push({alive: false, old: false, id: 'id'+i+'.'+o})
 				}
 			}
 			else {
 				if ( num === 3 ) {
-					newBoard[i][o].alive = true ;
+					row.push({alive: true, old: false, id: 'id'+i+'.'+o})
+				} else {
+					row.push({alive: false, old: false, id: 'id'+i+'.'+o})
 				}
 			}
 
 		}
+		newBoard.push(row);
 	}
 	return fromJS(newBoard);
 }
